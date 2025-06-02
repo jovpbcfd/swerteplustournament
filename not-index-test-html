@@ -46,7 +46,53 @@
         <div class="d-none d-lg-block"><img src="images/slot2025/1920x458.webp" style="width: 100%;"></div>
         <div class="d-lg-none"><img src="images/slot2025/1080x1080.webp"></div>
     </section>
-
+    <section class="live-swerte-main-content live-sect-padd3">
+        <div class="container">
+            <!--<h3 class="lc-title-center lc-white">LEADERBOARD</h3>-->
+            <div class="row justify-content-center">
+                <!-- <div class="col-12"><img src="images/title.png" class="my-5 py-5 py-sm-0 py-lg-3" alt="LIVE CASINO TOURNAMENT">
+                  <h1 class="text-center d-none">LIVE CASINO TOURNAMENT</h1>
+                </div>-->
+                <div class="w-100">
+                    <ul class="nav nav-tabs">
+                        <li class="nav-item active"> <a class="nav-link active" data-toggle="tab" href="#home">Live LeaderBoard</a> </li>
+                        <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#dropdown1">TOP 5 Result</a> </li>
+                        <!--<li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#dropdown2">Final Week Result</a> </li>-->
+                        <!--<li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#dropdown3" role="button" aria-haspopup="true" aria-expanded="false">Final Result</a>
+                            <div class="dropdown-menu">-->
+                        <!--Add Here-->
+                        <!--<a class="dropdown-item" data-toggle="tab" href="#dropdown2">Second Week</a>
+                                <a class="dropdown-item" data-toggle="tab" href="#dropdown1">First Week</a>
+                            </div>
+                        </li>-->
+                    </ul>
+                </div>
+                <div class="col-sm-10 col-lg-9">
+                    <div class="tab-content" id="myTabContent">
+                        <div id="home" class="tab-pane fade show active">
+                            <table class="dag thtd-hide2 thtd-hide3 d-table mx-auto table-top5">
+                                <thead>
+                                    <tr>
+                                        <th>Ranking</th>
+                                        <th>Bonus</th>
+                                        <th>User ID</th>
+                                        <th>SCORE</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="data-output" class="list-number">
+                                    <!--Prodcuts from javascript file in here.-->
+                                </tbody>
+                            </table>
+                        </div>
+                        <!--Add Here-->
+                        <div id="dropdown1" class="tab-pane fade"> <img class="lc-img-block" src="images/slot2025/first-week-0505.jpg"></div>
+                        <!--<div id="dropdown2" class="tab-pane fade"> <img class="lc-img-block" src="images/slot2025/final-week-0512.jpg?v=2"></div>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <section class="live-swerte-intro live-sect-padd3">
         <div class="container">
             <div class="">
