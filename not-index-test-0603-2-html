@@ -43,8 +43,8 @@
         </div>
     </nav>
     <section class="main-banner-section">
-        <div class="d-none d-lg-block"><img src="images/slot2025/1920x458.webp?v=2" style="width: 100%;"></div>
-        <div class="d-lg-none"><img src="images/slot2025/1080x1080.webp?=2"></div>
+        <div class="d-none d-lg-block"><img src="images/slot2025/1920x458.webp" style="width: 100%;"></div>
+        <div class="d-lg-none"><img src="images/slot2025/1080x1080.webp"></div>
     </section>
 
     <section class="live-swerte-intro live-sect-padd3">
